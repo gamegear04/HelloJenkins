@@ -1,0 +1,12 @@
+C:\Users\initOWL\Documents\Visual Studio 2017\Projects\HelloJenkins\.vs\HelloJenkins\lut\0\b\HelloJenkins\bin\Debug\HelloJenkins.exe.config
+C:\Users\initOWL\Documents\Visual Studio 2017\Projects\HelloJenkins\.vs\HelloJenkins\lut\0\b\HelloJenkins\bin\Debug\HelloJenkins.exe
+C:\Users\initOWL\Documents\Visual Studio 2017\Projects\HelloJenkins\.vs\HelloJenkins\lut\0\i\HelloJenkins\Debug\HelloJenkins.csproj.CoreCompileInputs.cache
+C:\Users\initOWL\Documents\Visual Studio 2017\Projects\HelloJenkins\.vs\HelloJenkins\lut\0\i\HelloJenkins\Debug\HelloJenkins.csproj.CopyComplete
+C:\Users\initOWL\Documents\Visual Studio 2017\Projects\HelloJenkins\.vs\HelloJenkins\lut\0\i\HelloJenkins\Debug\HelloJenkins.exe
+C:\Users\initOWL\Documents\Visual Studio 2017\Projects\HelloJenkins\.vs\HelloJenkins\lut\0\i\HelloJenkins\Debug\HelloJenkins.csprojAssemblyReference.cache
+C:\Users\initOWL\Source\Repos\HelloJenkins\.vs\HelloJenkins\lut\0\b\HelloJenkins\bin\Debug\HelloJenkins.exe.config
+C:\Users\initOWL\Source\Repos\HelloJenkins\.vs\HelloJenkins\lut\0\b\HelloJenkins\bin\Debug\HelloJenkins.exe
+C:\Users\initOWL\Source\Repos\HelloJenkins\.vs\HelloJenkins\lut\0\i\HelloJenkins\Debug\HelloJenkins.csprojAssemblyReference.cache
+C:\Users\initOWL\Source\Repos\HelloJenkins\.vs\HelloJenkins\lut\0\i\HelloJenkins\Debug\HelloJenkins.csproj.CoreCompileInputs.cache
+C:\Users\initOWL\Source\Repos\HelloJenkins\.vs\HelloJenkins\lut\0\i\HelloJenkins\Debug\HelloJenkins.csproj.CopyComplete
+C:\Users\initOWL\Source\Repos\HelloJenkins\.vs\HelloJenkins\lut\0\i\HelloJenkins\Debug\HelloJenkins.exe

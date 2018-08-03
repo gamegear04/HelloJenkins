@@ -1,0 +1,22 @@
+C:\Users\initOWL\Documents\Visual Studio 2017\Projects\HelloJenkins\.vs\HelloJenkins\lut\0\b\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\initOWL\Documents\Visual Studio 2017\Projects\HelloJenkins\.vs\HelloJenkins\lut\0\b\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\initOWL\Documents\Visual Studio 2017\Projects\HelloJenkins\.vs\HelloJenkins\lut\0\b\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\initOWL\Documents\Visual Studio 2017\Projects\HelloJenkins\.vs\HelloJenkins\lut\0\b\UnitTestProject1\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\initOWL\Documents\Visual Studio 2017\Projects\HelloJenkins\.vs\HelloJenkins\lut\0\b\UnitTestProject1\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\initOWL\Documents\Visual Studio 2017\Projects\HelloJenkins\.vs\HelloJenkins\lut\0\b\UnitTestProject1\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\initOWL\Documents\Visual Studio 2017\Projects\HelloJenkins\.vs\HelloJenkins\lut\0\b\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\initOWL\Documents\Visual Studio 2017\Projects\HelloJenkins\.vs\HelloJenkins\lut\0\i\UnitTestProject1\Debug\UnitTestProject1.csprojAssemblyReference.cache
+C:\Users\initOWL\Documents\Visual Studio 2017\Projects\HelloJenkins\.vs\HelloJenkins\lut\0\i\UnitTestProject1\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\initOWL\Documents\Visual Studio 2017\Projects\HelloJenkins\.vs\HelloJenkins\lut\0\i\UnitTestProject1\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\initOWL\Documents\Visual Studio 2017\Projects\HelloJenkins\.vs\HelloJenkins\lut\0\i\UnitTestProject1\Debug\UnitTestProject1.dll
+C:\Users\initOWL\Source\Repos\HelloJenkins\.vs\HelloJenkins\lut\0\b\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\initOWL\Source\Repos\HelloJenkins\.vs\HelloJenkins\lut\0\b\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\initOWL\Source\Repos\HelloJenkins\.vs\HelloJenkins\lut\0\b\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\initOWL\Source\Repos\HelloJenkins\.vs\HelloJenkins\lut\0\b\UnitTestProject1\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\initOWL\Source\Repos\HelloJenkins\.vs\HelloJenkins\lut\0\b\UnitTestProject1\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\initOWL\Source\Repos\HelloJenkins\.vs\HelloJenkins\lut\0\b\UnitTestProject1\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\initOWL\Source\Repos\HelloJenkins\.vs\HelloJenkins\lut\0\b\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\initOWL\Source\Repos\HelloJenkins\.vs\HelloJenkins\lut\0\i\UnitTestProject1\Debug\UnitTestProject1.csprojAssemblyReference.cache
+C:\Users\initOWL\Source\Repos\HelloJenkins\.vs\HelloJenkins\lut\0\i\UnitTestProject1\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\initOWL\Source\Repos\HelloJenkins\.vs\HelloJenkins\lut\0\i\UnitTestProject1\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\initOWL\Source\Repos\HelloJenkins\.vs\HelloJenkins\lut\0\i\UnitTestProject1\Debug\UnitTestProject1.dll

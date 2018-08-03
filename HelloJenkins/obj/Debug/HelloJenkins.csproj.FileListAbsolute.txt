@@ -1,0 +1,7 @@
+C:\Users\initOWL\Documents\Visual Studio 2017\Projects\HelloJenkins\HelloJenkins\bin\Debug\HelloJenkins.exe.config
+C:\Users\initOWL\Documents\Visual Studio 2017\Projects\HelloJenkins\HelloJenkins\bin\Debug\HelloJenkins.exe
+C:\Users\initOWL\Documents\Visual Studio 2017\Projects\HelloJenkins\HelloJenkins\bin\Debug\HelloJenkins.pdb
+C:\Users\initOWL\Documents\Visual Studio 2017\Projects\HelloJenkins\HelloJenkins\obj\Debug\HelloJenkins.csprojAssemblyReference.cache
+C:\Users\initOWL\Documents\Visual Studio 2017\Projects\HelloJenkins\HelloJenkins\obj\Debug\HelloJenkins.csproj.CoreCompileInputs.cache
+C:\Users\initOWL\Documents\Visual Studio 2017\Projects\HelloJenkins\HelloJenkins\obj\Debug\HelloJenkins.exe
+C:\Users\initOWL\Documents\Visual Studio 2017\Projects\HelloJenkins\HelloJenkins\obj\Debug\HelloJenkins.pdb
